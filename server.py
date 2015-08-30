@@ -20,6 +20,7 @@ import socket
 import os, os.path
 import time
 import keypair;
+import stat
 from time import sleep;
 
 sys.path.append(keypair.distroRoot + '/ipc/python');
